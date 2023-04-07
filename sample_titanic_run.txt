@@ -1,3 +1,0 @@
-from titanic_main import main
-
-main(['--str_training_data', 'titanic_train.csv', '--str_test_data', 'titanic_test.csv', '--str_logging', 'titanic_log.log', '--str_out_file', 'final_titanic_survival_predictions.csv'])
